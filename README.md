@@ -1,4 +1,4 @@
-#  **Projeto de site dsmeta** -- Aula da DevSuperior **Semana Spring React** :woman: :books:
+#  **Projeto APP dsmeta** -- Aula da DevSuperior **Semana Spring React** :woman: :books:
 
 Olá! Bem vindo ao meu repositório criado para a criação de um app :wave:
 
