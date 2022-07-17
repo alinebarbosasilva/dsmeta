@@ -22,12 +22,12 @@ Criado um  app de consulta de vendas, no qual você poderá buscar vendas em um 
   - `JSX HTML <tags/>`
 
     
-## Passo: criado projeto ReactJS usado: 
+## Passo: criado projeto ReactJS: 
 ```
 yarn create vite frontend --template react-ts
 ```
 
-## Passo: criado projeto Spring Boot: Usando
+## Passo: criado projeto Spring Boot:
 
 - Usando `Spring Initializr` com as seguintes dependências:
   - Web
