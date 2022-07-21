@@ -2,6 +2,8 @@
 
 Olá! Bem vindo ao meu repositório criado para a criação de um app :wave:
 
+Link: https://dsmeta-aline.netlify.app/
+
     ## 💻 Projeto
 
 Criado um  app de consulta de vendas, no qual você poderá buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dados dos melhores vendedores. Construido o back end com Java e Spring, e o front end com React.
@@ -35,6 +37,5 @@ yarn create vite frontend --template react-ts
   - H2
   - Security
 
-Link: https://dsmeta-aline.netlify.app/
 
 
